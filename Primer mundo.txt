@@ -1,0 +1,2 @@
+Persona{nombre='luis doc', apellido='doc', id='1', dato='ok'}
+[Persona{nombre='luis doc', apellido='doc', id='1', dato='ok'}]
